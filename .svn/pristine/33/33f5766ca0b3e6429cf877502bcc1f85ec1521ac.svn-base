@@ -1,0 +1,53 @@
+<style type="text/css">
+	a:hover{
+		text-decoration:none;
+		color:red;
+	}
+	a:link{
+		text-decoration:none;
+	}
+	body{
+		background-repeat: repeat;
+		background-size: 100%;
+		background-image: url(/img/11.jpg);
+	}
+	.main_table{
+		width: 1024px;
+	}
+	
+	.logo_tr{
+		height: auto;
+	}
+	.sec_tr{
+		height: 20px;
+	}
+	.sec_td{
+		width:204px;
+	}
+	.sec_adm_td{
+		vertical-align: top;
+		width:200px;
+		text-align: left;
+	}
+	.third_td{
+		vertical-align: top;
+		text-align: center; 
+		width: 204px;
+	}
+	.fourth_tr{
+		height: 530px;
+	}
+	.fourth_td{
+		text-align: center;
+	}
+	.fourth_adm_td{
+		vertical-align: top;
+	}
+	.fourth_reg_td{
+		text-align: center;
+	}
+	.table-striped{
+		width: 300px;
+	}
+					
+</style>	

@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %> 
+
+	<ul>
+		<li><a href="/products/bcaa">BCAA</a></li>
+		<li><a href="/products/amino">Аминокислоты</a></li>
+		<li><a href="/products/protein">Протеин</a></li>
+		<li><a href="/products/gainers">Гейнеры</a></li>
+		<li><a href="/products/creatin">Креатин</a></li>
+		<li><a href="/products/glutamine">Глютамин</a></li>
+		<li><a href="/products/vitamins">Витамины и минералы</a></li>
+		<li><a href="/products/ligaments">Для суставов и связок</a></li>
+		<li><a href="/products/preworkout">Предтренировочные комплексы</a></li>
+		<li><a href="/products/changefood">Заменинители питания</a></li>
+		<li><a href="/products/accessories">Аксессуары</a></li>
+	</ul>		
