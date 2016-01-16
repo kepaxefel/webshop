@@ -35,15 +35,6 @@ public class ProductsController {
 	OrdersManagerInterface ordersManager;
 	
 	private List <Product> products = new ArrayList<>();	
-	//private List <String> partsList = new ArrayList<>();
-		
-	/*@PostConstruct
-	public void init() {
-		List <Section> parts = productsManager.getSections();		
-		for(Section section : parts){
-			partsList.add(section.getLink());
-		}
-	}*/
 	
 	public List <String> getSections(){
 		List <Section> parts = productsManager.getSections();
